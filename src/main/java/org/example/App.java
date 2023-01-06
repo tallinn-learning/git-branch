@@ -10,6 +10,5 @@ public class App
     {
         System.out.println(" one only m");
         System.out.println(" branch two only m");
-        System.out.println("updaate in the master with extra info");
     }
 }
